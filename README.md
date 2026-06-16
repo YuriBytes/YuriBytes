@@ -6,7 +6,7 @@
 ### What I'm Up To Currently
 * ☁️ **AWS Chief Skill Builder:** Driving cloud adoption and hands-on workshops and seminars on campus.
 * 🎯 **Upskilling:** Actively learning how cloud systems, databases, and large-scale data pipelines fit together.
-* 🟢 **Code Consistency:** Trying to stay consistent by building proijects, learning new technologies, and keeping my GitHub activity panel green.
+* 🟢 **Code Consistency:** Trying to stay consistent by building projects, learning new technologies, and keeping my GitHub activity panel green.
 
 ---
 
